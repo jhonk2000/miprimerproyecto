@@ -1,0 +1,3 @@
+Hola en el primer comit el archivo estaba vacio
+mi edad es 31 años
+hoy es 30 de septiembre del 2022
