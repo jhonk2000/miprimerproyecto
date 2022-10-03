@@ -1,3 +1,4 @@
 Hola en el primer comit el archivo estaba vacio
-mi edad es 31 años
+mi edad es 33 años
+nací en Colombia viviendo en todo el mundo
 hoy es 30 de septiembre del 2022
